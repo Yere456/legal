@@ -3913,6 +3913,7 @@ input[type=button].btn-block {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #f3bd01;
+  border: 2px solid red;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -10051,7 +10052,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: var(--green);
+  background-color: #343a40;
   
 }
 #mainNav .navbar-toggler {
